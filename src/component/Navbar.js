@@ -1,7 +1,6 @@
 import React from "react";
 import logoimage from "../asset/Logo.svg";
 import { Link } from "react-router-dom";
-import { toast } from "react-toastify";
 
 function Navbar(props) {
   let isLoggedIn = props.isLoggedIn;

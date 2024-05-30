@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { IoEyeOutline } from "react-icons/io5";
-import { IoEyeOffOutline } from "react-icons/io5";
+
 import { toast } from "react-toastify";
 import { Link, useNavigate } from "react-router-dom";
 import { AiOutlineEyeInvisible } from "react-icons/ai";
